@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Tactile&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300&family=Syne+Tactile&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+.click{
+    font-family: 'Syne Tactile', cursive;
+}
+.tut{
+    font-family: 'Syne Tactile', cursive;
+    font-size: larger;
+}
+.list{
+    font-family: 'Courgette', cursive;
+}

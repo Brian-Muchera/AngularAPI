@@ -23,7 +23,7 @@
       />
     </div>
 
-    <button (click)="saveTutorial()" class="btn btn-success">Submit</button>
+   <button (click)="saveTutorial()" class="btn btn-success">Submit</button>
   </div>
 
   <div *ngIf="submitted">
@@ -31,3 +31,11 @@
     <button class="btn btn-success" (click)="newTutorial()">Add</button>
   </div>
 </div>
+
+
+
+  <!-- <div class="col-md-6">
+                <app-add-tutorial (saveTutorial)="saveTutorial($event)"></app-add-tutorial>
+
+            </div>
+-->
