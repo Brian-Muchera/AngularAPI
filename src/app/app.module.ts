@@ -10,6 +10,7 @@ import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { DateCountPipe } from './date-count.pipe';
+import { AboutComponent } from './components/about/about.component';
 
 
 @NgModule({
@@ -18,7 +19,8 @@ import { DateCountPipe } from './date-count.pipe';
     AddTutorialComponent,
     TutorialDetailsComponent,
     TutorialsListComponent,
-    DateCountPipe
+    DateCountPipe,
+    AboutComponent
   ],
   imports: [
     BrowserModule,

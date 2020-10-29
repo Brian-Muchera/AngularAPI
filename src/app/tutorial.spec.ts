@@ -1,7 +1,7 @@
-import { Tutorial } from './tutorial';
+//import { Tutorial } from './tutorial';
 
-describe('Tutorial', () => {
-  it('should create an instance', () => {
-    expect(new Tutorial()).toBeTruthy();
-  });
-});
+//describe('Tutorial', () => {
+ // it('should create an instance', () => {
+//    expect(new Tutorial()).toBeTruthy();
+ // });
+//});
